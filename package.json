@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-drill4j",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Custom rules for Drill4J repositories",
   "keywords": [
     "eslint",
